@@ -221,19 +221,6 @@
 
 	<profiles>
 		<profile>
-			<id>sintkom</id>
-			<snapshotRepository>
-				<id>snapshots</id>
-				<name>snapshots</name>
-				<url>https://artifactory.btmd.ru/artifactory/libs-snapshot-local</url>
-			</snapshotRepository>
-			<repository>
-				<id>central</id>
-				<name>central</name>
-				<url>https://artifactory.btmd.ru/artifactory/libs-release-local</url>
-			</repository>
-		</profile>
-		<profile>
 			<id>spring</id>
 			<repositories>
 				<repository>
